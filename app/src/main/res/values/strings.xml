@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">TakeHomeAssignment07-CanZ</string>
+    <string name="title_activity_cheat">cheatActivity</string>
+    <string name="true_button">TRUE</string>
+    <string name="false_button">FALSE</string>
+    <string name="question_text"> Asia is the largest continent.</string>
+    <string name="correct_toast">Correct!</string>
+    <string name="incorrect_toast">Incorrect!</string>
+
+    <string name="question_asia"> Asia is the largest continent.</string>
+    <string name="question_egypt">There is 80% of the River Nile is located in Egypt.</string>
+    <string name="question_dry">Sahara desert is the driest place on Earth.</string>
+    <string name="question_canada">Canada has the most coastline.</string>
+    <string name="question_america">Alaska has the most active volcanoes among all U.S. states.</string>
+
+    <string name="warning_text">Are you sure you want to do this?</string>
+    <string name="show_answer_button">Show Answer</string>
+    <string name="cheat_button">Cheat!</string>
+    <string name="judgment_toast">Cheating is wrong!</string>
+</resources>
